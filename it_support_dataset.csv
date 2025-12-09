@@ -1,0 +1,75 @@
+intent,patterns,response
+password_reset,"Reset my password","You can reset your password using this link: https://reset.example.com"
+password_reset,"Help me with password reset","Please use the password reset portal to reset your password."
+password_reset,"Forgot account password","You can recover your password here: https://reset.example.com"
+password_reset,"Can't access account due to password issue","Try resetting your password using the secure reset link."
+
+account_lock,"My account is locked","Your account may be locked due to multiple failed login attempts. Please wait 30 minutes or contact admin."
+account_lock,"Why is my account locked","Your account was locked for security reasons. Try again after some time or reset your password."
+account_lock,"I see account locked message","Please reset your password or contact IT support to unlock it."
+
+software_issue,"Teams is not opening","Try restarting Microsoft Teams or clearing its cache."
+software_issue,"Zoom not working","Please reinstall Zoom or check your internet connection."
+software_issue,"Chrome keeps crashing","Clear cookies/cache or reinstall Chrome."
+software_issue,"Unable to install software","Check admin permissions or install using Software Center."
+
+network_issue,"WiFi keeps disconnecting","Restart the router or forget and reconnect to the WiFi."
+network_issue,"LAN connection not working","Check the LAN cable or reconnect to the network port."
+network_issue,"VPN disconnects frequently","Check internet stability or reconnect using the corporate VPN client."
+network_issue,"Slow internet in office","Connect to the correct SSID or check if large downloads are running."
+
+hardware_issue,"Laptop is too slow","Try restarting, closing background apps, or running a system cleanup."
+hardware_issue,"My screen is flickering","Check the display cable or update graphics drivers."
+hardware_issue,"Headphones not detecting","Reconnect the device or update audio drivers."
+hardware_issue,"Battery draining fast","Lower brightness, close apps, or replace the battery."
+
+printer_issue,"Printer is not printing","Check if printer is online or restart the printer."
+printer_issue,"Paper jam error","Remove stuck paper and reload properly."
+printer_issue,"Printer offline","Reconnect to the printer or reinstall printer drivers."
+printer_issue,"Ink is low","Please replace the ink cartridge."
+
+email_issue,"Not receiving emails","Check spam folder or ensure mailbox is not full."
+email_issue,"My email is not syncing","Restart Outlook or re-add your email account."
+email_issue,"Password required repeatedly","Try clearing Outlook credentials from Windows Credential Manager."
+email_issue,"SMTP error","Check internet or email configuration."
+
+update_issue,"How to update Windows","Go to Settings → Update & Security → Check for updates."
+update_issue,"System update failed","Restart and retry the update or run Windows Update troubleshooter."
+update_issue,"Update stuck at 0%","Restart your device and try again later."
+update_issue,"Office update not installing","Repair Office from Control Panel."
+
+security_warning,"I see a virus warning","Run antivirus scan and avoid clicking suspicious links."
+security_warning,"Suspicious email received","Do not open attachments. Report it to IT security."
+security_warning,"Strange pop-up on screen","Close the browser or restart your device."
+security_warning,"My system has malware","Disconnect from the network and run a full system scan."
+
+ticket_status,"I need ticket status","Please provide your ticket ID to check the status."
+ticket_status,"Where is my ticket update","Share your ticket ID to get the latest update."
+ticket_status,"Any update on my request","Send the ticket ID to view your support status."
+
+greeting,"Hey","Hello! How can I assist you?"
+greeting,"What's up","Hi! How may I help you today?"
+greeting,"Good afternoon","Good afternoon! Need any IT assistance?"
+
+goodbye,"See you","Goodbye! Feel free to reach out anytime."
+goodbye,"Talk later","Sure! I'm here whenever you need help."
+goodbye,"Thanks for helping","You’re welcome! Glad I could assist."
+
+system_slow,"My laptop is extremely slow","Try restarting, closing unused apps, or running disk cleanup."
+system_slow,"System lagging too much","Clear temp files and ensure enough free storage."
+system_slow,"CPU usage is high","Check Task Manager and close heavy programs."
+
+access_issue,"I cannot access shared drive","Ensure you are connected to VPN and you have permissions."
+access_issue,"Shared folder not opening","Reconnect to network or request drive access."
+access_issue,"Access denied error","You may not have permissions. Contact admin."
+
+wifi_credentials,"What is the office WiFi password","Please contact IT or check your employee handbook for WiFi credentials."
+wifi_credentials,"WiFi password not working","Ensure you typed correct case-sensitive password."
+
+device_setup,"Help me setup new laptop","Please log in using your company email and follow onboarding instructions."
+device_setup,"How to configure email on new device","Use your email credentials and follow the setup wizard."
+
+meeting_issue,"Unable to join meeting","Check internet connection or restart meeting app."
+meeting_issue,"Audio not working in meeting","Check microphone settings or reconnect audio device."
+meeting_issue,"Camera not detected","Ensure permissions are allowed and reconnect camera."
+
